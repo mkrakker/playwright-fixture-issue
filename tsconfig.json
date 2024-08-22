@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "rootDir": "./tests",
+    "outDir": "build",
+    "lib": ["es2018"],
+    "declaration": false
+  },
+  "include": ["test/**/*.ts"],
+  "types": ["node"]
+}
